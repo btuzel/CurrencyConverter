@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string-array name="currency_codes">
+        <item>CAD</item>
+        <item>EUR</item>
+        <item>AUD</item>
+        <item>RON</item>
+        <item>SEK</item>
+        <item>RUB</item>
+        <item>TRY</item>
+        <item>JPY</item>
+        <item>USD</item>
+        <item>GBP</item>
+    </string-array>
+</resources>
